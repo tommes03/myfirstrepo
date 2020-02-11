@@ -1,2 +1,1 @@
-# myfirstrepo
-meine erste eigene Repo, yeah!
+bla bla nach löschen # myfirstrepo
